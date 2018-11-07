@@ -1,0 +1,57 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{lim2012mechanism}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LCH}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={Chern-Hooi},
+         giveni={C\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=HAM}{%
+         family={Holder},
+         familyi={H\bibinitperiod},
+         given={Aaron\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MCB}{%
+         family={Musgrave},
+         familyi={M\bibinitperiod},
+         given={Charles\bibnamedelima B},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{LCHHAMMCB1}
+    \strng{fullhash}{LCHHAMMCB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{142\bibrangedash 154}
+    \field{title}{Mechanism of homogeneous reduction of CO2 by pyridine: proton
+  relay in aqueous solvent and aromatic stabilization}
+    \field{volume}{135}
+    \field{journaltitle}{Journal of the American Chemical Society}
+    \field{year}{2012}
+  \endentry
+\enddatalist
+\endinput
